@@ -9,4 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fairyofshampoo&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fairyofshampoo&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ikariscraft&icon=2&color=0)](https://visitcount.itsvg.in)
